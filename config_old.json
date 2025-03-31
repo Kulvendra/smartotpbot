@@ -1,0 +1,28 @@
+{
+    "email": "Skyhighsuppliesgroup@gmail.com",
+    "password": "Punnu@6669",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzkyOGJjZDRlMDRjMTNhYmM1YmI4YTYiLCJyb2xlIjoidXNlciIsInNlc3Npb24iOjE3NDMzNDk4MzA5MTYsImlhdCI6MTc0MzQwNzcwNiwiZXhwIjoxNzc0OTY1MzA2fQ.B3ggVM5NnywxJMeR0G0_gpeWw1zycnjdWKHltD2Hh0Q",
+    "bot_token": "7709984983:AAGRnPJfk_T-h9vQYSPh0JhpK9FqMFPCMq4",
+    "servers": [
+        {
+            "businessCode": "flp",
+            "server": "server3"
+        },
+        {
+            "businessCode": "flipkart",
+            "server": "server2"
+        },
+        {
+            "businessCode": "xt",
+            "server": "server1"
+        },
+        {
+            "businessCode": "fff",
+            "server": "server1"
+        },
+        {
+            "businessCode": "xt_6",
+            "server": "server1"
+        }
+    ]
+}

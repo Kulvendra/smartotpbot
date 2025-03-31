@@ -1,0 +1,12 @@
+{
+    "email": "Skyhighsuppliesgroup@gmail.com",
+    "password": "Punnu@6669",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NzkyOGJjZDRlMDRjMTNhYmM1YmI4YTYiLCJyb2xlIjoidXNlciIsInNlc3Npb24iOjE3NDMzNDk4MzA5MTYsImlhdCI6MTc0MzQxMTQxMywiZXhwIjoxNzc0OTY5MDEzfQ.0ppXuY8OdYwYpvjLghTKaxLAkOoc6FlvV4pAg38HowQ",
+    "bot_token": "7709984983:AAGRnPJfk_T-h9vQYSPh0JhpK9FqMFPCMq4",
+    "servers": [
+        {
+            "businessCode": "fff",
+            "server": "server1"
+        }
+    ]
+}
